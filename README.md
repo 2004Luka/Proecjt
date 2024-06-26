@@ -1,4 +1,5 @@
-env file
+## Environment Variables
+```plaintext
 NODE_ENV=development
 PORT=4000
 MONGO_URL=<your-mongodb-connection-string>
